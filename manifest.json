@@ -8,7 +8,7 @@
   "background_color": "#0a0a0f",
   "theme_color": "#0a0a0f",
   "categories": ["productivity", "utilities"],
-  "icons": [
+  "icons": [ 
     { "src": "icons/icon-72.png",  "sizes": "72x72",   "type": "image/png" },
     { "src": "icons/icon-96.png",  "sizes": "96x96",   "type": "image/png" },
     { "src": "icons/icon-128.png", "sizes": "128x128", "type": "image/png" },
