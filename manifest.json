@@ -4,7 +4,7 @@
   "description": "Minimal daily planner with tasks, timer & notes",
   "start_url": "/index.html",
   "display": "standalone",
-  "orientation": "portrait",
+  "orientation": "portrait", 
   "background_color": "#0a0a0f",
   "theme_color": "#0a0a0f",
   "categories": ["productivity", "utilities"],
